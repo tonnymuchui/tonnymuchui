@@ -54,5 +54,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tonnymuchui&theme=dark&show_icons=true)
-) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonnymuchui&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
