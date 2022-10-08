@@ -22,9 +22,9 @@
 
 ### About Me :
 **My name is Tonny muchui.** 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+Full-stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 - :telescope: I’m working as a Freelance Software Engineer by contributing to frontend and backend for building web/Mobile applications and a student at Microverse.
-
+- I have 2+ years of programming experience.
 - :zap: In my free time, I enjoy watching Entrepreneurship  TEd Talks, Scientific  Documentaries& Playing football.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tonny-muchui-murungi-9b549a174/)
@@ -49,4 +49,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tonnymuchui&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonnymuchui&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonnymuchui&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
