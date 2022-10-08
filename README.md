@@ -30,6 +30,9 @@ Full-stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tonny-muchui-murungi-9b549a174/)
 
 ---
+## Link to Portfolio
+
+> Feel free to check the [Portfolio-link](https://tonnymuchui.github.io/Portfolio/).
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
