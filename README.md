@@ -78,8 +78,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnymuchui&theme=dark&layout=compact" alt="Top Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonnymuchui&theme=dark" alt="GitHub Streak">
 </div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tonnymuchui&bg_color=20232a&color=61dafb&line=ffffff&point=24292e&hide_border=true" alt="GitHub Activity Graph">
-</div>
