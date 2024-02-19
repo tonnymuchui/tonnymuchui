@@ -23,8 +23,8 @@
 ### About Me :
 **My name is Tonny muchui.** 
 Full-stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- :telescope: I’m working as a Freelance Software Engineer by contributing to Front-end and Back-end for building Web/Mobile applications and a student at Microverse.
-- I have 2+ years of programming experience.
+- :telescope: I am dynamic and passionate about crafting innovative, user-based applications that tackle real-world challenges.
+- I have 4+ years of programming experience.
 - :zap: In my free time, I enjoy watching Entrepreneurship  TEd Talks, Scientific  Documentaries& Playing football.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tonny-muchui-murungi-9b549a174/)
