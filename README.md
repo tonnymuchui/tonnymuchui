@@ -22,10 +22,10 @@
 
 ### About Me :
 **My name is Tonny muchui.** 
-Full-stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+Full-stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I am dynamic and passionate about crafting innovative, user-based applications that tackle real-world challenges.
 - I have 4+ years of programming experience.
-- :zap: In my free time, I enjoy watching Entrepreneurship  TEd Talks, Scientific  Documentaries& Playing football.
+- :zap: In my leisure time, I engage in playing football, watching Podcasts on entrepreneurship, and exploring scientific documentaries.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tonny-muchui-murungi-9b549a174/)
 
@@ -36,11 +36,10 @@ Full-stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/springboot.svg" title="springboot" alt="javascript" width="40" height="40"/>&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
