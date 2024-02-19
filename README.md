@@ -23,8 +23,8 @@
 ## 👨‍💻 About Me
 
 **I'm Tonny Muchui, a Full-stack Software Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 💡 Passionate about crafting innovative, user-centric Web/Mobile Applications.
-- 💻 Over 4 years of experience in programming.
+- 💡 I'm Passionate about crafting innovative, user-based Web/Mobile Applications.
+- 💻 With over 4 years of experience in programming.
 - ⚡ In my free time, I enjoy playing football, watching entrepreneurship Podcasts, and exploring scientific documentaries.
 
 📫 **How to reach me**: [![Linkedin Badge](https://img.shields.io/badge/-Tonny%20Muchui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tonny-muchui-murungi-9b549a174/)
@@ -54,9 +54,27 @@
 
 ---
 
+## 🚀 Skills and Expertise
+
+- **Frontend**: HTML, CSS, JavaScript, React, Angular
+- **Backend**: Java, SpringBoot, Kotlin
+- **Mobile**: Android, Kotlin, Java
+- **Version Control**: Git
+- **Operating Systems**: Linux
+
+---
+
+## 📚 Education
+
+- 🎓 Bachelor of Science in Information Technology, Jomo Kenyatta University of Agriculture and Technology (JKUAT), Graduated 2022.
+- Microverse USA, Remote FullStack Web Development. 2023.
+- Moring School, Software Development, Android Mobile Application Development. 2018.
+---
+
 ## 🔥 My Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tonnymuchui&theme=dark&show_icons=true" alt="Tonny's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnymuchui&theme=dark&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonnymuchui&theme=dark" alt="GitHub Streak">
 </div>
