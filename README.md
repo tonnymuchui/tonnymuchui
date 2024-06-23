@@ -48,22 +48,27 @@
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+  <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png">
+  <img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+  <img height="40" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg">
+  <img height="40" src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg">
+  <img height="40" src="https://www.vectorlogo.zone/logos/css/css-icon.svg">
+  <img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
+  <img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
+  <img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+  <img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 </div>
 
 ---
 
 ## 🚀 Skills and Expertise
 
-- **Frontend**: HTML, CSS, JavaScript, React, Angular
-- **Backend**: Java, SpringBoot, Kotlin
+- **Frontend**: Android, React, Redux, JavaScript, jQuery, HTML5, CSS3.
+- **Backend**: Java, SpringBoot MVC, Kotlin, MySQL, Postgres SQL.
 - **Mobile**: Android, Kotlin, Java
-- **Version Control**: Git
+- **Tools & Methods**: Git, Domain models, GitHub, Deployment, Continuous Integration, Test Driven Development.
 - **Operating Systems**: Linux
+- **Professional**: Remote Pair-Programming, Teamwork, Code Reviews, and Mentoring.
 
 ---
 
