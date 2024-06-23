@@ -22,10 +22,13 @@
 
 ## 👨‍💻 About Me
 
-**I'm Tonny Muchui, a Full-stack Software Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 💡 I'm Passionate about crafting innovative, user-based Web/Mobile Applications.
+**I'm Tonny Muchui, a Full-stack Software Engineer: What I Do:** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 💻 With over 4 years of experience in programming.
-- ⚡ In my free time, I enjoy playing football, watching entrepreneurship Podcasts, and exploring scientific documentaries.
+- ⚡ Build innovative applications
+- ⚡ Design and integrate solid systems
+- ⚡ Lead and mentor teams
+- ⚡ I work well with remote teams, promoting collaboration and inclusivity.
+- 💡 Let's connect and create something amazing together!
 
 📫 **How to reach me**: [![Linkedin Badge](https://img.shields.io/badge/-Tonny%20Muchui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tonny-muchui-murungi-9b549a174/)
 
