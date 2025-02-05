@@ -13,10 +13,10 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=tonnymuchui&style=flat-square&color=blue" alt="Profile Views"/>
   <h1>
-    Hello there! 👋
+    Hi, I’m Tonny Muchui 👋
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <p>Welcome to my world of code, creativity, and innovation!</p>
+  <p>Welcome to my world of code, creativity, and innovation</p>
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 
 ---
 
-## 👨‍💻 **About Me**
+## 👨‍💻 **About Me** Full-stack Software Engineer
 
 I’m **Tonny Muchui**, a passionate and innovative **Full-stack Software Engineer** with over **3 years of experience** building **scalable, secure, and high-performance software solutions** across industries like **healthcare, finance, and ERP**. I thrive on solving complex problems, mentoring teams, and aligning technology with business goals to drive innovation.  
 
