@@ -58,12 +58,15 @@ Innovative Software Engineer with over 3 years of experience delivering scalable
 
 ## 🚀 Skills and Expertise
 
-- **Frontend**: Android, React, Redux, JavaScript, jQuery, HTML5, CSS3.
-- **Backend**: Java, SpringBoot MVC, Kotlin, MySQL, Postgres SQL.
-- **Mobile**: Android, Kotlin, Java
-- **Tools & Methods**: Git, Domain models, GitHub, Deployment, Continuous Integration, Test Driven Development.
-- **Operating Systems**: Linux
-- **Professional**: Remote Pair-Programming, Teamwork, Code Reviews, and Mentoring.
+| **Column 1**                                                                 | **Column 2**                                                                 |
+|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| **Programming Languages**: Java, Kotlin, JavaScript, TypeScript              | **Big Data & AI Tools**: Apache Spark, Deeplearning4j, TensorFlow, ML Kit (Firebase) |
+| **Frameworks**: Spring Boot, Hibernate, Java EE, Spring MVC, React, Android, Next.js, Jetpack Compose, Kotlin Multiplatform (KMP) | **DevOps and CI/CD**: Docker, Kubernetes, Jenkins, Terraform, GitLab CI/CD, CircleCI, Ansible |
+| **Build Tools**: Apache Maven, Gradle                                         | **Testing and Automation**: JUnit, Mockito, Selenium, Cypress, PyTest, TestNG  |
+| **API Development**: RESTful services, GraphQL, gRPC                          | **Web Technologies**: HTML, CSS, JavaScript, TypeScript, Webpack, Babel       |
+| **Cloud Platforms**: AWS (EC2, S3, Lambda, EKS), GCP                         | **Other Tools**: Elasticsearch, Kafka, RabbitMQ, Prometheus, Grafana          |
+| **Data and Databases**: SQL (PostgreSQL, MySQL, Oracle), NoSQL (MongoDB, DynamoDB, Redis, Firebase) |  |
+
 
 ---
 
