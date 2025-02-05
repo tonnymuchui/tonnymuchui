@@ -25,7 +25,7 @@
 
 ---
 
-## 👨‍💻 **About Me** Full-stack Software Engineer
+## 👨‍💻 **About Me.** Full-stack Software Engineer
 
 I’m **Tonny Muchui**, a passionate and innovative **Full-stack Software Engineer** with over **3 years of experience** building **scalable, secure, and high-performance software solutions** across industries like **healthcare, finance, and ERP**. I thrive on solving complex problems, mentoring teams, and aligning technology with business goals to drive innovation.  
 
