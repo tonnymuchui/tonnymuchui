@@ -4,6 +4,9 @@
     <a href="https://www.linkedin.com/in/tonny-muchui-murungi-9b549a174/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+        <a href="https://tonnymuchui.github.io/Portfolio/">
+      <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+    </a>
     <a href="https://twitter.com/Tonnymuchui6">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
