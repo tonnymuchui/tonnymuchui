@@ -23,12 +23,7 @@
 ## 👨‍💻 About Me
 
 **I'm Tonny Muchui, a Full-stack Software Engineer: What I Do:** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 💻 With over 4 years of experience in programming.
-- ⚡ Build innovative applications
-- ⚡ Design and integrate solid systems
-- ⚡ Lead and mentor teams
-- ⚡ I work well with remote teams, promoting collaboration and inclusivity.
-- 💡 Let's connect and create something amazing together!
+Innovative Software Engineer with over 3 years of experience delivering scalable, secure, and high-performance software solutions across diverse industries, including healthcare, finance, and enterprise resource planning (ERP). Proficient in Java-based backend development using Spring Boot, Kotlin, and Hibernate, with expertise in microservices architecture and event-driven systems using RabbitMQ and Kafka. Experienced in developing cloud-native applications on AWS and GCP, as well as implementing DevOps pipelines with Docker, Kubernetes, Jenkins, and Terraform. Skilled in modern frontend frameworks like NextJs and ReactJs, and mobile platforms like Android mobile application jetpack compose. Strong background in data engineering, including SQL, NoSQL, and distributed data processing with Apache Spark. Experienced in applying AI and machine learning tools such as TensorFlow and Deeplearning4j for predictive analytics, anomaly detection, and process automation. Passionate about mentoring development teams, driving innovation, and aligning technology strategies with business goals. 
 
 📫 **How to reach me**: [![Linkedin Badge](https://img.shields.io/badge/-Tonny%20Muchui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tonny-muchui-murungi-9b549a174/) Email: [tonykanyingah@gmail.com](mailto:tonykanyingah@gmail.com)
 
